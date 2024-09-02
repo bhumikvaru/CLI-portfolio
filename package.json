@@ -1,0 +1,24 @@
+{
+  "name": "bhumik-varu",
+  "version": "1.0.1",
+  "description": "Bhumik Varu's CLI Portfolio",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "bhumik-varu": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "portfolio",
+    "cli",
+    "bhumik varu"
+  ],
+  "author": "Bhumik Varu",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.0",
+    "chalk": "^5.3.0"
+  }
+}
